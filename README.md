@@ -51,3 +51,22 @@ Step 2 grant all permissions for Supreme Admin Role
 Step 3 navigate to departments and create new
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/aTZDvSU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 4 Create System Administrators department
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/GsOUmyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 5 Create a new team
+</p>
+<br />
+
+<p>
+
