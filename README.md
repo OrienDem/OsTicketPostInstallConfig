@@ -6,11 +6,12 @@
 </p>
 
 <h2>Technologies Used</h2>
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+
+- Microsoft Azure (Virtual Machine Instance)
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System Used </h2>
 
 - Windows 10</b> (21H2)
 
