@@ -87,4 +87,22 @@ Step 6 uncheck require login to allow anonymous tickets
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/GHUaIeC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 8 navigate to agent panel and then select users. Create two new users Ken and Karin
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UGwvhU4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 9 Configure SLAs and generate new ones for SEV A, B & C
+</p>
+<br />
+
+<p>
+
 
