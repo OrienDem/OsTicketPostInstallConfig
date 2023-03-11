@@ -70,3 +70,21 @@ Step 5 Create a new team
 
 <p>
 
+  <p>
+<img src="https://i.imgur.com/afKd3qt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 6 uncheck require login to allow anonymous tickets
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Sf4PJLR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Step 7 navigate to agents and creat new. Create 2 agents Jane and John doe
+</p>
+<br />
+
+<p>
+
+
