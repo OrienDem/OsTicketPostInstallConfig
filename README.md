@@ -105,4 +105,22 @@ Step 9 Configure SLAs and generate new ones for SEV A, B & C
 
 <p>
 
+<p>
+<img src="https://i.imgur.com/9NDDMKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 10 Config SLA 2
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/inQ498x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 11 Navigate to Manage . Help Topics and Create new
+</p>
+<br />
+
+<p>
+
 
